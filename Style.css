@@ -1,0 +1,10 @@
+.indicators {
+    letter-spacing: 1rem;
+    margin: -1rem 0;
+    text-align: center;
+    color: #5A94DF;
+}
+.active-indicator {
+    font-size: 2.5rem;
+    vertical-align: -0.4rem;
+}
